@@ -1,0 +1,9 @@
+C:\Projects\EssentialExtensions\EssentialExtensions\bin\Debug\netstandard2.0\EssentialExtensions.deps.json
+C:\Projects\EssentialExtensions\EssentialExtensions\bin\Debug\netstandard2.0\EssentialExtensions.dll
+C:\Projects\EssentialExtensions\EssentialExtensions\bin\Debug\netstandard2.0\EssentialExtensions.pdb
+C:\Projects\EssentialExtensions\EssentialExtensions\obj\Debug\netstandard2.0\EssentialExtensions.csprojAssemblyReference.cache
+C:\Projects\EssentialExtensions\EssentialExtensions\obj\Debug\netstandard2.0\EssentialExtensions.csproj.CoreCompileInputs.cache
+C:\Projects\EssentialExtensions\EssentialExtensions\obj\Debug\netstandard2.0\EssentialExtensions.AssemblyInfoInputs.cache
+C:\Projects\EssentialExtensions\EssentialExtensions\obj\Debug\netstandard2.0\EssentialExtensions.AssemblyInfo.cs
+C:\Projects\EssentialExtensions\EssentialExtensions\obj\Debug\netstandard2.0\EssentialExtensions.dll
+C:\Projects\EssentialExtensions\EssentialExtensions\obj\Debug\netstandard2.0\EssentialExtensions.pdb

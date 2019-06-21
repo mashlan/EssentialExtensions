@@ -1,0 +1,17 @@
+C:\Projects\EssentialExtensions\EssentialExtensions.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Projects\EssentialExtensions\EssentialExtensions.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Projects\EssentialExtensions\EssentialExtensions.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Projects\EssentialExtensions\EssentialExtensions.Tests\bin\Debug\netcoreapp2.2\EssentialExtensions.Tests.deps.json
+C:\Projects\EssentialExtensions\EssentialExtensions.Tests\bin\Debug\netcoreapp2.2\EssentialExtensions.Tests.runtimeconfig.json
+C:\Projects\EssentialExtensions\EssentialExtensions.Tests\bin\Debug\netcoreapp2.2\EssentialExtensions.Tests.runtimeconfig.dev.json
+C:\Projects\EssentialExtensions\EssentialExtensions.Tests\bin\Debug\netcoreapp2.2\EssentialExtensions.Tests.dll
+C:\Projects\EssentialExtensions\EssentialExtensions.Tests\bin\Debug\netcoreapp2.2\EssentialExtensions.Tests.pdb
+C:\Projects\EssentialExtensions\EssentialExtensions.Tests\bin\Debug\netcoreapp2.2\EssentialExtensions.dll
+C:\Projects\EssentialExtensions\EssentialExtensions.Tests\bin\Debug\netcoreapp2.2\EssentialExtensions.pdb
+C:\Projects\EssentialExtensions\EssentialExtensions.Tests\obj\Debug\netcoreapp2.2\EssentialExtensions.Tests.csprojAssemblyReference.cache
+C:\Projects\EssentialExtensions\EssentialExtensions.Tests\obj\Debug\netcoreapp2.2\EssentialExtensions.Tests.csproj.CoreCompileInputs.cache
+C:\Projects\EssentialExtensions\EssentialExtensions.Tests\obj\Debug\netcoreapp2.2\EssentialExtensions.Tests.AssemblyInfoInputs.cache
+C:\Projects\EssentialExtensions\EssentialExtensions.Tests\obj\Debug\netcoreapp2.2\EssentialExtensions.Tests.AssemblyInfo.cs
+C:\Projects\EssentialExtensions\EssentialExtensions.Tests\obj\Debug\netcoreapp2.2\EssentialExtensions.Tests.csproj.CopyComplete
+C:\Projects\EssentialExtensions\EssentialExtensions.Tests\obj\Debug\netcoreapp2.2\EssentialExtensions.Tests.dll
+C:\Projects\EssentialExtensions\EssentialExtensions.Tests\obj\Debug\netcoreapp2.2\EssentialExtensions.Tests.pdb
