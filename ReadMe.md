@@ -14,7 +14,7 @@
 #### Contributing
 Anyone may contribute to this project by creating a branch and submitting a pull request. All contributions must
 be code that is not specific to any single project. Extension should be simple common helpers, and are explicitly named as to their intent.
-All extension methods must be well documented with XML and must contain Unit Test.
+All extension methods must be well documented with XML and must contain Unit Tests.
 
 Also, all new extensions must be documented in the ReadMe file.
 
@@ -50,7 +50,7 @@ ___
 
 ### Available Extensions
 
-###### String Extensions
+##### String Extensions
 | Method									| Description	|
 |-------------								| -----			|
 | [string].IsNullOrEmpty()					| Simplified way to call `string.IsNullOrWhiteSpace([string])` |
@@ -62,7 +62,7 @@ ___
 
 ___
 
-###### Class Extensions
+##### Class Extensions
 | Method									| Description	|
 |-------------								| -----			|
 | [class].IsNull()							| Returns boolean - true if object is null, else false	|
@@ -74,7 +74,7 @@ ___
 
 ___
 
-###### Boolean Extensions
+##### Boolean Extensions
 | Method									| Description	|
 |-------------								| -----			|
 | [bool].ToDefaultString()					| Returns the string representation of the boolean value ("True", or "False"). If boolean in null will return "False". |
@@ -85,7 +85,7 @@ ___
 
 ___
 
-###### Integer Extensions
+##### Integer Extensions
 | Method									| Description	|
 |-------------								| -----			|
 | [int].ToDefaultString()					| For Nullable Integers only. Will return the integer value as a string. If null will return "0" |
@@ -96,7 +96,7 @@ ___
 
 ___
 
-###### DateTime Extensions
+##### DateTime Extensions
 | Method									| Description	|
 |-------------								| -----			|
 | [DateTime].IsAfter(date, excludeTime)		| Returns true if the DateTime is after the passed in date. Optional excludeTime will exclude the TimeSpan from the Dates. |
